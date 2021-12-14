@@ -8,3 +8,13 @@ C:\Projects\C#\VariaveisNumericas\VariaveisNumericas\obj\Debug\VariaveisNumerica
 C:\Projects\C#\VariaveisNumericas\VariaveisNumericas\obj\Debug\VariaveisNumericas.csproj.CoreCompileInputs.cache
 C:\Projects\C#\VariaveisNumericas\VariaveisNumericas\obj\Debug\VariaveisNumericas.exe
 C:\Projects\C#\VariaveisNumericas\VariaveisNumericas\obj\Debug\VariaveisNumericas.pdb
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\VariaveisNumericas\VariaveisNumericas\bin\Debug\VariaveisNumericas.exe.config
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\VariaveisNumericas\VariaveisNumericas\bin\Debug\VariaveisNumericas.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\VariaveisNumericas\VariaveisNumericas\bin\Debug\VariaveisNumericas.pdb
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\VariaveisNumericas\VariaveisNumericas\obj\Debug\VariaveisNumericas.csproj.AssemblyReference.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\VariaveisNumericas\VariaveisNumericas\obj\Debug\VariaveisNumericas.Form1.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\VariaveisNumericas\VariaveisNumericas\obj\Debug\VariaveisNumericas.Properties.Resources.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\VariaveisNumericas\VariaveisNumericas\obj\Debug\VariaveisNumericas.csproj.GenerateResource.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\VariaveisNumericas\VariaveisNumericas\obj\Debug\VariaveisNumericas.csproj.CoreCompileInputs.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\VariaveisNumericas\VariaveisNumericas\obj\Debug\VariaveisNumericas.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\VariaveisNumericas\VariaveisNumericas\obj\Debug\VariaveisNumericas.pdb
