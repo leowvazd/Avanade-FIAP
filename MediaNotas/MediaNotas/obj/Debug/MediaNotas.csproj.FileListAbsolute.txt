@@ -1,0 +1,10 @@
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\MediaNotas\MediaNotas\bin\Debug\MediaNotas.exe.config
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\MediaNotas\MediaNotas\bin\Debug\MediaNotas.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\MediaNotas\MediaNotas\bin\Debug\MediaNotas.pdb
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\MediaNotas\MediaNotas\obj\Debug\MediaNotas.csproj.AssemblyReference.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\MediaNotas\MediaNotas\obj\Debug\MediaNotas.Form1.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\MediaNotas\MediaNotas\obj\Debug\MediaNotas.Properties.Resources.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\MediaNotas\MediaNotas\obj\Debug\MediaNotas.csproj.GenerateResource.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\MediaNotas\MediaNotas\obj\Debug\MediaNotas.csproj.CoreCompileInputs.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\MediaNotas\MediaNotas\obj\Debug\MediaNotas.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\MediaNotas\MediaNotas\obj\Debug\MediaNotas.pdb
