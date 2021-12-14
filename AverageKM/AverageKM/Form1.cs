@@ -14,6 +14,15 @@ namespace AverageKM
     {
         double valorStart, valorEnd, refilledLiters, resultado;             // declaração das variáveis
 
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            txtStart.Clear();
+            txtFinal.Clear();
+            txtLiters.Clear();
+            lblResultado.Text = "-";
+
+        }
+
         public Form1()
         {
             InitializeComponent();

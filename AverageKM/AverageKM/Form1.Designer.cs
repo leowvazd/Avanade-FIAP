@@ -39,6 +39,7 @@ namespace AverageKM
             this.label5 = new System.Windows.Forms.Label();
             this.btnCalc = new System.Windows.Forms.Button();
             this.lblResultado = new System.Windows.Forms.Label();
+            this.btnClear = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -110,7 +111,7 @@ namespace AverageKM
             // 
             // btnCalc
             // 
-            this.btnCalc.Location = new System.Drawing.Point(123, 184);
+            this.btnCalc.Location = new System.Drawing.Point(83, 187);
             this.btnCalc.Name = "btnCalc";
             this.btnCalc.Size = new System.Drawing.Size(75, 23);
             this.btnCalc.TabIndex = 9;
@@ -129,12 +130,23 @@ namespace AverageKM
             this.lblResultado.TabIndex = 10;
             this.lblResultado.Text = "-";
             // 
+            // btnClear
+            // 
+            this.btnClear.Location = new System.Drawing.Point(164, 187);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.Size = new System.Drawing.Size(75, 23);
+            this.btnClear.TabIndex = 11;
+            this.btnClear.Text = "Clear";
+            this.btnClear.UseVisualStyleBackColor = true;
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(342, 266);
+            this.Controls.Add(this.btnClear);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnCalc);
             this.Controls.Add(this.label5);
@@ -164,6 +176,7 @@ namespace AverageKM
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button btnCalc;
         private System.Windows.Forms.Label lblResultado;
+        private System.Windows.Forms.Button btnClear;
     }
 }
 
