@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{522C1F48-141F-4273-948B-948687286B76}</ProjectGuid>
+    <ProjectGuid>{E21472A0-DA91-40B4-B0AA-E1EF4EFB521E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>IfComposto</RootNamespace>
-    <AssemblyName>IfComposto</AssemblyName>
+    <RootNamespace>VanParaVotar</RootNamespace>
+    <AssemblyName>VanParaVotar</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

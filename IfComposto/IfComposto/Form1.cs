@@ -16,5 +16,24 @@ namespace IfComposto
         {
             InitializeComponent();
         }
+
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+            double valor, investimento;
+
+            valor = double.Parse(txtInvestimento.Text);
+
+            if (valor < 1000)
+            {
+                investimento = valor * 0.05;
+                MessageBox.Show("O valor do investimento é de: R$ " + investimento.ToString("0.00"), "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+
+            else
+            {
+                investimento = valor * 0.15;
+                MessageBox.Show("O valor do investimento é de: R$ " + investimento.ToString("0.00"), "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
     }
 }
