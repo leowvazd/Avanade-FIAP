@@ -21,7 +21,24 @@ namespace BancoCredito
         {
             double saldo, credito;
 
-            saldo = double.Parse(txtSaldo.Text);
+            // 2 parametros -> tentativa de conversão no objeto e saída em uma variavel
+            if (double.TryParse(txtSaldo.Text, out saldo) == false)                                                                 // desvio de exceção
+            {
+                MessageBox.Show("Por favor, digite um número!", "Atenção!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                txtSaldo.Clear();
+                txtSaldo.Focus();                                                                                                   // posiciona o cursor no componente
+                return;
+            }
+
+            if (saldo < 0)
+            {
+                MessageBox.Show("Por favor, digite um número válido!", "Atenção!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                txtSaldo.Clear();
+                txtSaldo.Focus();                                                                                                   // posiciona o cursor no componente
+                return;
+            }
+
+            // saldo = double.Parse(txtSaldo.Text);
 
             if (saldo <= 200)
             {
