@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qtdPares", "qtdPares\qtdPares.csproj", "{DD7F802A-0678-4027-8305-44FCE063B762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7F802A-0678-4027-8305-44FCE063B762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7F802A-0678-4027-8305-44FCE063B762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7F802A-0678-4027-8305-44FCE063B762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7F802A-0678-4027-8305-44FCE063B762}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1B0FC8A-0DE1-4666-9BBF-1847201E51D6}
+	EndGlobalSection
+EndGlobal

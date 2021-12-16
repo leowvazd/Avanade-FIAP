@@ -1,0 +1,10 @@
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\qtdPares\qtdPares\bin\Debug\qtdPares.exe.config
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\qtdPares\qtdPares\bin\Debug\qtdPares.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\qtdPares\qtdPares\bin\Debug\qtdPares.pdb
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\qtdPares\qtdPares\obj\Debug\qtdPares.csproj.AssemblyReference.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\qtdPares\qtdPares\obj\Debug\qtdPares.Form1.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\qtdPares\qtdPares\obj\Debug\qtdPares.Properties.Resources.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\qtdPares\qtdPares\obj\Debug\qtdPares.csproj.GenerateResource.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\qtdPares\qtdPares\obj\Debug\qtdPares.csproj.CoreCompileInputs.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\qtdPares\qtdPares\obj\Debug\qtdPares.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\qtdPares\qtdPares\obj\Debug\qtdPares.pdb

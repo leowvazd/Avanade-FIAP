@@ -1,0 +1,10 @@
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\RadioButton\RadioButton\bin\Debug\RadioButton.exe.config
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\RadioButton\RadioButton\bin\Debug\RadioButton.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\RadioButton\RadioButton\bin\Debug\RadioButton.pdb
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.AssemblyReference.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\RadioButton\RadioButton\obj\Debug\RadioButton.Form1.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\RadioButton\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\RadioButton\RadioButton\obj\Debug\RadioButton.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\RadioButton\RadioButton\obj\Debug\RadioButton.pdb

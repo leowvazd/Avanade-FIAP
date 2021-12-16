@@ -1,0 +1,9 @@
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Somátorio\Somátorio\bin\Debug\Somátorio.exe.config
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Somátorio\Somátorio\bin\Debug\Somátorio.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Somátorio\Somátorio\bin\Debug\Somátorio.pdb
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Somátorio\Somátorio\obj\Debug\Somátorio.Form1.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Somátorio\Somátorio\obj\Debug\Somátorio.Properties.Resources.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Somátorio\Somátorio\obj\Debug\Somátorio.csproj.GenerateResource.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Somátorio\Somátorio\obj\Debug\Somátorio.csproj.CoreCompileInputs.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Somátorio\Somátorio\obj\Debug\Somátorio.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Somátorio\Somátorio\obj\Debug\Somátorio.pdb
