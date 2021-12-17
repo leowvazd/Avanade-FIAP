@@ -1,0 +1,10 @@
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\aulaVetores\aulaVetores\bin\Debug\aulaVetores.exe.config
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\aulaVetores\aulaVetores\bin\Debug\aulaVetores.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\aulaVetores\aulaVetores\bin\Debug\aulaVetores.pdb
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\aulaVetores\aulaVetores\obj\Debug\aulaVetores.csproj.AssemblyReference.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\aulaVetores\aulaVetores\obj\Debug\aulaVetores.Form1.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\aulaVetores\aulaVetores\obj\Debug\aulaVetores.Properties.Resources.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\aulaVetores\aulaVetores\obj\Debug\aulaVetores.csproj.GenerateResource.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\aulaVetores\aulaVetores\obj\Debug\aulaVetores.csproj.CoreCompileInputs.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\aulaVetores\aulaVetores\obj\Debug\aulaVetores.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\aulaVetores\aulaVetores\obj\Debug\aulaVetores.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vendasInteractionBox", "vendasInteractionBox\vendasInteractionBox.csproj", "{EE2FE57E-75CE-4532-8E0B-927F9FC14AD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2FE57E-75CE-4532-8E0B-927F9FC14AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2FE57E-75CE-4532-8E0B-927F9FC14AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2FE57E-75CE-4532-8E0B-927F9FC14AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2FE57E-75CE-4532-8E0B-927F9FC14AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3273B6EA-2800-4B51-B38E-FAB27C385985}
+	EndGlobalSection
+EndGlobal

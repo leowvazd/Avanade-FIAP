@@ -1,0 +1,11 @@
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\vendasInteractionBox\vendasInteractionBox\bin\Debug\vendasInteractionBox.exe.config
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\vendasInteractionBox\vendasInteractionBox\bin\Debug\vendasInteractionBox.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\vendasInteractionBox\vendasInteractionBox\bin\Debug\vendasInteractionBox.pdb
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\vendasInteractionBox\vendasInteractionBox\obj\Debug\vendasInteractionBox.csproj.AssemblyReference.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\vendasInteractionBox\vendasInteractionBox\obj\Debug\vendasInteractionBox.csproj.ResolveComReference.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\vendasInteractionBox\vendasInteractionBox\obj\Debug\vendasInteractionBox.Form1.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\vendasInteractionBox\vendasInteractionBox\obj\Debug\vendasInteractionBox.Properties.Resources.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\vendasInteractionBox\vendasInteractionBox\obj\Debug\vendasInteractionBox.csproj.GenerateResource.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\vendasInteractionBox\vendasInteractionBox\obj\Debug\vendasInteractionBox.csproj.CoreCompileInputs.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\vendasInteractionBox\vendasInteractionBox\obj\Debug\vendasInteractionBox.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\vendasInteractionBox\vendasInteractionBox\obj\Debug\vendasInteractionBox.pdb
