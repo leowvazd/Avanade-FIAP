@@ -1,0 +1,10 @@
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Matriz4x4\Matriz4x4\bin\Debug\Matriz4x4.exe.config
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Matriz4x4\Matriz4x4\bin\Debug\Matriz4x4.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Matriz4x4\Matriz4x4\bin\Debug\Matriz4x4.pdb
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Matriz4x4\Matriz4x4\obj\Debug\Matriz4x4.csproj.AssemblyReference.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Matriz4x4\Matriz4x4\obj\Debug\Matriz4x4.Form1.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Matriz4x4\Matriz4x4\obj\Debug\Matriz4x4.Properties.Resources.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Matriz4x4\Matriz4x4\obj\Debug\Matriz4x4.csproj.GenerateResource.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Matriz4x4\Matriz4x4\obj\Debug\Matriz4x4.csproj.CoreCompileInputs.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Matriz4x4\Matriz4x4\obj\Debug\Matriz4x4.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\Matriz4x4\Matriz4x4\obj\Debug\Matriz4x4.pdb
