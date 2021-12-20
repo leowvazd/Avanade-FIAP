@@ -1,0 +1,10 @@
+C:\Users\l.vaz.lourenco\source\repos\CalculadoraParametro\CalculadoraParametro\bin\Debug\CalculadoraParametro.exe.config
+C:\Users\l.vaz.lourenco\source\repos\CalculadoraParametro\CalculadoraParametro\bin\Debug\CalculadoraParametro.exe
+C:\Users\l.vaz.lourenco\source\repos\CalculadoraParametro\CalculadoraParametro\bin\Debug\CalculadoraParametro.pdb
+C:\Users\l.vaz.lourenco\source\repos\CalculadoraParametro\CalculadoraParametro\obj\Debug\CalculadoraParametro.csproj.AssemblyReference.cache
+C:\Users\l.vaz.lourenco\source\repos\CalculadoraParametro\CalculadoraParametro\obj\Debug\CalculadoraParametro.Form1.resources
+C:\Users\l.vaz.lourenco\source\repos\CalculadoraParametro\CalculadoraParametro\obj\Debug\CalculadoraParametro.Properties.Resources.resources
+C:\Users\l.vaz.lourenco\source\repos\CalculadoraParametro\CalculadoraParametro\obj\Debug\CalculadoraParametro.csproj.GenerateResource.cache
+C:\Users\l.vaz.lourenco\source\repos\CalculadoraParametro\CalculadoraParametro\obj\Debug\CalculadoraParametro.csproj.CoreCompileInputs.cache
+C:\Users\l.vaz.lourenco\source\repos\CalculadoraParametro\CalculadoraParametro\obj\Debug\CalculadoraParametro.exe
+C:\Users\l.vaz.lourenco\source\repos\CalculadoraParametro\CalculadoraParametro\obj\Debug\CalculadoraParametro.pdb
