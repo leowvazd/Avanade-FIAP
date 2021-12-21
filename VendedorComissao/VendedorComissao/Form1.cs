@@ -19,11 +19,12 @@ namespace VendedorComissao
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            Comissao comissao = new Comissao(Convert.ToString(txtNome.Text), Convert.ToDouble(txtSalario.Text));
+            Vendedor v = new Vendedor();
 
-            comissao.calculoComissao(Convert.ToDouble(txtVendido.Text));
+            v.nome = txtNome.Text;
+            v.salarioBase = double.Parse(txtSalario.Text);
 
-            lblRes.Text = comissao.valorVendido.ToString("0.00");
+            MessageBox.Show("O valor da comissão é de: R$ " + v.calculoComissao(double.Parse(txtVendido.Text)).ToString() + ".", "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
