@@ -8,3 +8,13 @@ C:\Users\l.vaz.lourenco\source\repos\SaldoCaixa\SaldoCaixa\obj\Debug\SaldoCaixa.
 C:\Users\l.vaz.lourenco\source\repos\SaldoCaixa\SaldoCaixa\obj\Debug\SaldoCaixa.exe
 C:\Users\l.vaz.lourenco\source\repos\SaldoCaixa\SaldoCaixa\obj\Debug\SaldoCaixa.pdb
 C:\Users\l.vaz.lourenco\source\repos\SaldoCaixa\SaldoCaixa\obj\Debug\SaldoCaixa.csproj.AssemblyReference.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\SaldoCaixa\SaldoCaixa\bin\Debug\SaldoCaixa.exe.config
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\SaldoCaixa\SaldoCaixa\bin\Debug\SaldoCaixa.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\SaldoCaixa\SaldoCaixa\bin\Debug\SaldoCaixa.pdb
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\SaldoCaixa\SaldoCaixa\obj\Debug\SaldoCaixa.csproj.AssemblyReference.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\SaldoCaixa\SaldoCaixa\obj\Debug\SaldoCaixa.Form1.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\SaldoCaixa\SaldoCaixa\obj\Debug\SaldoCaixa.Properties.Resources.resources
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\SaldoCaixa\SaldoCaixa\obj\Debug\SaldoCaixa.csproj.GenerateResource.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\SaldoCaixa\SaldoCaixa\obj\Debug\SaldoCaixa.csproj.CoreCompileInputs.cache
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\SaldoCaixa\SaldoCaixa\obj\Debug\SaldoCaixa.exe
+C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\SaldoCaixa\SaldoCaixa\obj\Debug\SaldoCaixa.pdb
