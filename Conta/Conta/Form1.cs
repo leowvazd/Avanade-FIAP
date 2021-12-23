@@ -13,7 +13,10 @@ namespace Conta
     public partial class Form1 : Form
     {
         ContaCorrente cc1 = new ContaCorrente(saldo: 500, limiteEspecial: 1000);
+
+
         ContaPoupanca cp1 = new ContaPoupanca(saldo: 5000, reajusteMensal: 0.01);
+        ContaPoupanca cp2 = new ContaPoupanca(saldo: 100, reajusteMensal: 0.01);
 
         public Form1()
         {
