@@ -43,7 +43,7 @@ namespace Funcionario
 
         public void cadastrarFuncionario()
         {
-            
+
         }
     }
 }
