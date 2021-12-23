@@ -131,6 +131,11 @@ namespace Conta
                 case 2:
                     cc1.fecharPrograma();
                     break;
+
+                default:
+                    MessageBox.Show("Por favor, digite um código válido!", "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    cmbMenu1.Focus();
+                    return;
             }
 
         }
