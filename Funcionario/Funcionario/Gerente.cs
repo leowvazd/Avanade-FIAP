@@ -42,15 +42,13 @@ namespace Funcionario
 
         public void gerenteCalcularSalarioFinal()
         {
-            calcularBonificacao();
-            this.salarioFinal = this.gratificacao + this.salarioBase + this.valorBonificacao;
-
-            MessageBox.Show($"Salário Final do Gerente Calculado!", "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show($"O Salário do Gerente é de: R$ {this.salarioBase.ToString("0.00")}", "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         public void apresentarSalario()
         {
-
+            this.salarioFinal = this.salarioBase + this.valorBonificacao + this.gratificacao;
+            MessageBox.Show($"O Salário Final do Gerente é de: R$ {this.salarioFinal.ToString("0.00")}", "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }

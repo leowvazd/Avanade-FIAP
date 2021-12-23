@@ -38,7 +38,8 @@ namespace Funcionario
 
         public void calcularBonificacao()
         {
-            valorBonificacao = salarioBase * 0.05;
+            this.valorBonificacao = this.salarioBase * 0.05;
+            MessageBox.Show($"O valor da bonificação é de: R$ {this.valorBonificacao.ToString("0.00")}", "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         public void cadastrarFuncionario()

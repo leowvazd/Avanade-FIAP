@@ -31,13 +31,23 @@ namespace Funcionario
             this.valorBonificacao = 0;
         }
 
+        public Vendedor((double, string nome) valorComissao, string cpf, double salarioBase, int salarioFinal, int valorBonificacao)
+        {
+            this.cpf = cpf;
+            this.salarioBase = salarioBase;
+            this.salarioFinal = salarioFinal;
+            this.valorBonificacao = valorBonificacao;
+        }
+
         public void calcularSalarioFinal()
         {
-
+            MessageBox.Show($"O Salário do Vendedor é de: R$ {this.salarioBase.ToString("0.00")}", "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         public void apresentarSalario()
         {
+            this.salarioFinal = this.salarioBase + this.valorBonificacao + this.valorComissao;
+            MessageBox.Show($"O Salário Final do Vendedor é de: R$ {this.salarioFinal.ToString("0.00")}", "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
     }

@@ -39,12 +39,25 @@ namespace Funcionario
                         {
                             // cadastrar func.
                             case 0:
-                                gerente = new Gerente(gratificacao: (Convert.ToDouble(txtBonus.Text), nome: txtNome.Text.ToString()),
-                                cpf: (txtCPF.Text.ToString()), salarioBase: Convert.ToDouble(txtSalarioBase.Text), salarioFinal: 0,
-                                valorBonificacao: 0);
+                                validarBonificacao();
+                                validarSalario();
+                                if (validarS == false || validarB == false)
+                                {
+                                    MessageBox.Show("Por favor digite um valor de Salario e/ou Bonificação corretamente!", "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                                    txtSalarioBase.Clear();
+                                    txtBonus.Clear();
+                                    txtSalarioBase.Focus();
+                                    return;
+                                }
 
-                                MessageBox.Show("Gerente Cadastrado Com Sucesso!", "Cadastro", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                                else
+                                {
+                                    gerente = new Gerente(gratificacao: (Convert.ToDouble(txtBonus.Text), nome: txtNome.Text.ToString()),
+                                    cpf: (txtCPF.Text.ToString()), salarioBase: Convert.ToDouble(txtSalarioBase.Text), salarioFinal: 0,
+                                    valorBonificacao: 0);
 
+                                    MessageBox.Show("Gerente Cadastrado com Sucesso!", "Cadastro", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                                }               
                                 break;
 
                             // calc. salario
@@ -54,10 +67,12 @@ namespace Funcionario
 
                             // calc. bonificação
                             case 2:
+                                gerente.calcularBonificacao();
                                 break;
 
                             // apresen. final
                             case 3:
+                                gerente.apresentarSalario();
                                 break;
 
                             // sair
@@ -67,7 +82,7 @@ namespace Funcionario
 
                             // default
                             default:
-                                // tratamento
+                                MessageBox.Show("Por favor, digite uma operação válida!", "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                 break;
                         }
                     }
@@ -80,18 +95,40 @@ namespace Funcionario
                         {
                             // cadastrar func.
                             case 0:
+                                validarBonificacao();
+                                validarSalario();
+                                if (validarS == false || validarB == false)
+                                {
+                                    MessageBox.Show("Por favor digite um valor de Salario e/ou Bonificação corretamente!", "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                                    txtSalarioBase.Clear();
+                                    txtBonus.Clear();
+                                    txtSalarioBase.Focus();
+                                    return;
+                                }
+
+                                else
+                                {
+                                    vendedor = new Vendedor(valorComissao: (Convert.ToDouble(txtBonus.Text), nome: txtNome.Text.ToString()),
+                                    cpf: (txtCPF.Text.ToString()), salarioBase: Convert.ToDouble(txtSalarioBase.Text), salarioFinal: 0,
+                                    valorBonificacao: 0);
+
+                                    MessageBox.Show("Vendedor Cadastrado com Sucesso!", "Cadastro", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                                }
                                 break;
 
                             // calc. salario
                             case 1:
+                                vendedor.calcularSalarioFinal();
                                 break;
 
                             // calc. bonificação
                             case 2:
+                                vendedor.calcularBonificacao();
                                 break;
 
                             // apresen. final
                             case 3:
+                                vendedor.apresentarSalario();
                                 break;
 
                             // sair
@@ -101,7 +138,7 @@ namespace Funcionario
 
                             // default
                             default:
-                                // tratamento
+                                MessageBox.Show("Por favor, digite uma operação válida!", "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                 break;
                         }
                     }
@@ -114,18 +151,40 @@ namespace Funcionario
                         {
                             // cadastrar func.
                             case 0:
+                                validarBonificacao();
+                                validarSalario();
+                                if (validarS == false || validarB == false)
+                                {
+                                    MessageBox.Show("Por favor digite um valor de Salario e/ou Bonificação corretamente!", "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                                    txtSalarioBase.Clear();
+                                    txtBonus.Clear();
+                                    txtSalarioBase.Focus();
+                                    return;
+                                }
+
+                                else
+                                {
+                                    atendente = new Atendente(adicionalNoturno: (Convert.ToDouble(txtBonus.Text), nome: txtNome.Text.ToString()),
+                                    cpf: (txtCPF.Text.ToString()), salarioBase: Convert.ToDouble(txtSalarioBase.Text), salarioFinal: 0,
+                                    valorBonificacao: 0);
+
+                                    MessageBox.Show("Vendedor Cadastrado com Sucesso!", "Cadastro", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                                }
                                 break;
 
                             // calc. salario
                             case 1:
+                                atendente.calcularSalarioFinal();
                                 break;
 
                             // calc. bonificação
                             case 2:
+                                atendente.calcularBonificacao();
                                 break;
 
                             // apresen. final
                             case 3:
+                                atendente.apresentarSalario();
                                 break;
 
                             // sair
@@ -135,7 +194,7 @@ namespace Funcionario
 
                             // default
                             default:
-                                // tratamento
+                                MessageBox.Show("Por favor, digite uma operação válida!", "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                 break;
                         }
                     }
@@ -148,8 +207,38 @@ namespace Funcionario
 
                 // default
                 default:
-                    // tratamento
+                    MessageBox.Show("Por favor, digite uma operação válida!", "Mensagem!", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     break;
+            }
+        }
+
+        public bool validarS = false;
+
+        public void validarSalario()
+        {
+            if (double.TryParse(txtSalarioBase.Text, out double result) == false)
+            {
+                validarS = false;
+            }
+
+            else
+            {
+                validarS = true;
+            }
+        }
+
+        public bool validarB = false;
+
+        public void validarBonificacao()
+        {
+            if (double.TryParse(txtBonus.Text, out double result) == false)
+            {
+                validarB = false;
+            }
+
+            else
+            {
+                validarB = true;
             }
         }
     }
