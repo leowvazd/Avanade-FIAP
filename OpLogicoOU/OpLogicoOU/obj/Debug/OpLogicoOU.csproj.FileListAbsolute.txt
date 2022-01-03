@@ -1,9 +1,0 @@
-C:\Users\l.vaz.lourenco\source\repos\OpLogicoOU\OpLogicoOU\bin\Debug\OpLogicoOU.exe.config
-C:\Users\l.vaz.lourenco\source\repos\OpLogicoOU\OpLogicoOU\bin\Debug\OpLogicoOU.exe
-C:\Users\l.vaz.lourenco\source\repos\OpLogicoOU\OpLogicoOU\bin\Debug\OpLogicoOU.pdb
-C:\Users\l.vaz.lourenco\source\repos\OpLogicoOU\OpLogicoOU\obj\Debug\OpLogicoOU.Form1.resources
-C:\Users\l.vaz.lourenco\source\repos\OpLogicoOU\OpLogicoOU\obj\Debug\OpLogicoOU.Properties.Resources.resources
-C:\Users\l.vaz.lourenco\source\repos\OpLogicoOU\OpLogicoOU\obj\Debug\OpLogicoOU.csproj.GenerateResource.cache
-C:\Users\l.vaz.lourenco\source\repos\OpLogicoOU\OpLogicoOU\obj\Debug\OpLogicoOU.csproj.CoreCompileInputs.cache
-C:\Users\l.vaz.lourenco\source\repos\OpLogicoOU\OpLogicoOU\obj\Debug\OpLogicoOU.exe
-C:\Users\l.vaz.lourenco\source\repos\OpLogicoOU\OpLogicoOU\obj\Debug\OpLogicoOU.pdb

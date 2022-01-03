@@ -1,9 +1,0 @@
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\TipoUsuario\TipoUsuario\bin\Debug\TipoUsuario.exe.config
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\TipoUsuario\TipoUsuario\bin\Debug\TipoUsuario.exe
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\TipoUsuario\TipoUsuario\bin\Debug\TipoUsuario.pdb
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\TipoUsuario\TipoUsuario\obj\Debug\TipoUsuario.Form1.resources
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\TipoUsuario\TipoUsuario\obj\Debug\TipoUsuario.Properties.Resources.resources
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\TipoUsuario\TipoUsuario\obj\Debug\TipoUsuario.csproj.GenerateResource.cache
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\TipoUsuario\TipoUsuario\obj\Debug\TipoUsuario.csproj.CoreCompileInputs.cache
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\TipoUsuario\TipoUsuario\obj\Debug\TipoUsuario.exe
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\TipoUsuario\TipoUsuario\obj\Debug\TipoUsuario.pdb

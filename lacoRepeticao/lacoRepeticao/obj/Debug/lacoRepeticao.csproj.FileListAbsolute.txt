@@ -1,9 +1,0 @@
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\lacoRepeticao\lacoRepeticao\bin\Debug\lacoRepeticao.exe.config
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\lacoRepeticao\lacoRepeticao\bin\Debug\lacoRepeticao.exe
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\lacoRepeticao\lacoRepeticao\bin\Debug\lacoRepeticao.pdb
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\lacoRepeticao\lacoRepeticao\obj\Debug\lacoRepeticao.Form1.resources
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\lacoRepeticao\lacoRepeticao\obj\Debug\lacoRepeticao.Properties.Resources.resources
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\lacoRepeticao\lacoRepeticao\obj\Debug\lacoRepeticao.csproj.GenerateResource.cache
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\lacoRepeticao\lacoRepeticao\obj\Debug\lacoRepeticao.csproj.CoreCompileInputs.cache
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\lacoRepeticao\lacoRepeticao\obj\Debug\lacoRepeticao.exe
-C:\Users\l.vaz.lourenco\Documents\GitHub\Avanade-FIAP\lacoRepeticao\lacoRepeticao\obj\Debug\lacoRepeticao.pdb
