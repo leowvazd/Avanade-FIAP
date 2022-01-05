@@ -13,7 +13,8 @@ valorCompra float not null,
 -- #1
 insert into veiculos
 (placa, marca, modelo, cor, opcionais, ano, valorCompra) values
-('DAB0001','Jeep', 'Compacto', 'Azul', 'airbag', 2000, 60000)
+('DAB0001','Jeep', 'Compacto', 'Azul', 'airbag', 2000, 60000)
+
 -- #2
 insert into veiculos
 (placa, marca, modelo, cor, opcionais, ano, valorCompra) values
@@ -60,18 +61,95 @@ insert into veiculos
 ('LOL0505','Ferrari', 'Sport', 'Branco', 'rodas verdes', 2012, 25000)
 
 alter table veiculos
-add valorVenda floatupdate veiculos set valorVenda = 1.4 * valorCompra;delete from veiculos
-where placa = 'LOL0505'alter table veiculosadd cidadeRegistro varchar(30)update veiculos set cidadeRegistro = 'SP'
-where modelo = 'Sport'update veiculos set cidadeRegistro = 'RJ'
-where modelo = 'Sedan'update veiculos set cidadeRegistro = 'MG'
-where modelo = 'Compacto'update veiculos set valorVenda = valorVenda - ( valorVenda * 0.1 )
+add valorVenda float
+
+update veiculos set valorVenda = 1.4 * valorCompra;
+
+delete from veiculos
+where placa = 'LOL0505'
+
+alter table veiculos
+add cidadeRegistro varchar(30)
+
+update veiculos set cidadeRegistro = 'SP'
+where modelo = 'Sport'
+
+update veiculos set cidadeRegistro = 'RJ'
+where modelo = 'Sedan'
+
+update veiculos set cidadeRegistro = 'MG'
+where modelo = 'Compacto'
+
+update veiculos set valorVenda = valorVenda - ( valorVenda * 0.1 )
 where ano <= 2005
-update veiculos set valorVenda = valorVenda - ( valorVenda * 0.05 )
-where ano >= 2013update veiculos set valorVenda = valorVenda + ( valorVenda * 0.03 )
-where marca = 'Ford'update veiculos set valorVenda = valorVenda - ( valorVenda * 0.05 )
-where modelo = 'Tracker'alter table veiculos
-drop column opcionaisupdate veiculos set valorVenda = valorVenda + ( valorVenda * 0.03 )
-where marca = 'Ecosport' and ano <= 2007 update veiculos set valorVenda = valorVenda + ( valorVenda * 0.03 )
-where marca = 'Jeep' and ano <= 2007 update veiculos set valorVenda = valorVenda - ( valorVenda * 0.05 )
-where marca = 'Jeep' and ano >= 2019 and valorVenda <= 120000delete from veiculos
-where marca = 'Ford'select * from veiculos
+
+update veiculos set valorVenda = valorVenda - ( valorVenda * 0.05 )
+where ano >= 2013
+
+update veiculos set valorVenda = valorVenda + ( valorVenda * 0.03 )
+where marca = 'Ford'
+
+update veiculos set valorVenda = valorVenda - ( valorVenda * 0.05 )
+where modelo = 'Tracker'
+
+alter table veiculos
+drop column opcionais
+
+update veiculos set valorVenda = valorVenda + ( valorVenda * 0.03 )
+where marca = 'Ecosport' and ano <= 2007 
+
+update veiculos set valorVenda = valorVenda + ( valorVenda * 0.03 )
+where marca = 'Jeep' and ano <= 2007 
+
+update veiculos set valorVenda = valorVenda - ( valorVenda * 0.05 )
+where marca = 'Jeep' and ano >= 2019 and valorVenda <= 120000
+
+delete from veiculos
+where marca = 'Ford'
+
+select * from veiculos
+
+select * from veiculos order by modelo asc
+
+select * from veiculos order by valorVenda desc
+
+select * from veiculos order by ano asc
+
+select * from veiculos where placa like 'DAB%'
+
+select * from veiculos where marca like 'Chevrolet'
+
+select count(placa) from veiculos
+
+select * from veiculos where ano < 2010
+
+select * from veiculos where ano between 2016 and 2020
+
+select * from veiculos where valorVenda between 150000 and 200000
+
+select * from veiculos where marca like 'Volks' and valorVenda > 70000 and ano between 2013 and 2017
+
+select * from veiculos where marca like 'Ford' and ano = 2018
+
+select count(placa) from veiculos where marca like 'Jeep'
+
+select sum(valorCompra) from veiculos where marca like 'Renegade'
+
+select count(placa) from veiculos where placa like '%1'
+
+select sum(valorCompra) from veiculos where placa like '%2'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
